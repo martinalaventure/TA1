@@ -1,0 +1,25 @@
+/* Card.css */
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px;
+  width: 300px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.card-description {
+  font-size: 1em;
+  margin-bottom: 15px;
+}
+
+.card-assigned-person,
+.card-dates {
+  font-size: 0.9em;
+  margin-bottom: 10px;
+}
